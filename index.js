@@ -31,7 +31,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'What license does this project use?',
-        choices: ['MIT', 'Apache 2.0', 'GNU General Public License (GPL) 2.0', 'GNU General Public License (GPL) 3.0']
+        choices: ['MIT', 'Apache 2.0', 'GNU General Public License (GPL) 2.0', 'GNU General Public License (GPL) 3.0', 'None']
     },
     {
         type: 'input',
@@ -63,6 +63,7 @@ function init() {
     inquirer.prompt(questions)
         .then((data) => {
            writeToFile('README.md', generateMarkdown(data))
+
         })
 }
 
