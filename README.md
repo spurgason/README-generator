@@ -25,7 +25,7 @@
   
 
   ## Tests
-  [Video Walkthrough](https://watch.screencastify.com/v/1C4X5DmhNArX9hFVFFb3)
+  [Walkthrough Video](https://watch.screencastify.com/v/1C4X5DmhNArX9hFVFFb3)
 
   ## Questions
   [Github](https://github.com/spurgason) <br>
