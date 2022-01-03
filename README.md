@@ -7,7 +7,7 @@
   To install this application the user can clone this repository to their local machine. Once opened in their code editor the user must run `npm i`, after all dependencies have been installed the user can then un `node index` to run the appliaction.  
 
   ## Usage
-  After installation users can run the application in the command line by typing “node index” to initialize the application. The application will then prompt the users with    questions about their project so they can fill out the README.md file. Once all questions have been answered a readme.md file will be generated and added to the project files. 
+  After installation users can run the application in the command line by typing `node index` to initialize the application. The application will then prompt the users with    questions about their project so they can fill out the README.md file. Once all questions have been answered a readme.md file will be generated and added to the project files. 
 
   ## Contributor
   [Shane Purgason](https://github.com/spurgason)
